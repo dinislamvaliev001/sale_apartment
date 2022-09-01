@@ -1,4 +1,4 @@
-# Research_on_the_sale_of_apartment
+# research_on_the_sale_of_apartment
 Исследование объявлений о продаже квартир
 
 Описание проекта
