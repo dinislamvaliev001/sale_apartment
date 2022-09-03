@@ -1,4 +1,4 @@
-# research_on_the_sale_of_apartment
+# sale_apartment
 
 _Исследование объявлений о продаже квартир_
 
